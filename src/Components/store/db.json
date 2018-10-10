@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "produced": "2018",
+        "model_name": "CHALLENGER SXT PLUS",
+        "price": "$30,295",
+        "hoursePower": "305",
+        "miles_per_gallon": "19",
+        "image": "logo1",
+        "description": "Everyone will tell you not to mess with an icon. But the Dodge Brand has never listened to the “everyones” of the world. So we took this model of muscle—the Dodge Challenger—and, in true Dodge Brand fashion, made it even better."
+    },
+    {
+        "id": "2",
+        "produced": "2018",
+        "model_name": "GRAND CARAVAN SE",
+        "price": "$26,250",
+        "hoursePower": "283",
+        "miles_per_gallon": "17",
+        "image": "logo2",
+        "description": "Power up your weekends with an engine that lets you tow your favorite toys along with your favorite boys and girls. And with a maximum towing capacity of 1,500 pounds10, the Dodge Grand Caravan makes road-tripping and kicking every family adventure’s butt like it’s going out of style, the new style."
+    },
+    {
+        "id": "3",
+        "produced": "2018",
+        "model_name": "CHARGER SXT",
+        "price": "$28,995",
+        "hoursePower": "292",
+        "miles_per_gallon": "19",
+        "image": "logo3",
+        "description": "When you have more than 45 years of muscle-car heritage coursing through your veins, you get a modern-day marvel like the Dodge Charger. The low, lean profile and scalloped bodyside exude an amped-up attitude that begs you to put the pedal to the metal."
+    },
+    {
+        "id": "4",
+        "produced": "2018",
+        "model_name": "JOURNEY SE",
+        "price": "$22,995",
+        "hoursePower": "173",
+        "miles_per_gallon": "19",
+        "image": "logo4",
+        "description": "A powerful engine is at the heart of every road trip machine. And it just so happens that we’ve got miles and miles of heart, with over 500 highway miles per tank. Whether or not you blast power ballads with the windows down is up to you."
+    }
+]
